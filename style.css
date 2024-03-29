@@ -1,0 +1,74 @@
+
+
+body{
+  background-color: #82E0AA;;
+}
+
+html{
+    font-size: 62.5%;
+    box-sizing: border-box; /*importante para que la medida en pixeles no aumente cuando colocamos padding */
+    
+}
+
+/* *, *:before, *:after {
+    box-sizing: inherit;
+  } */
+
+  /* contenido */
+  
+  .contenido{
+    background-color: #161718;
+    
+  }
+
+  .titulo{
+    color: #F8FCFE;
+    text-align: center;
+    padding: 2rem;
+    background-color: #80BA98;
+    
+  }
+.boton-primario{
+    background-color: #D6E81F;
+    padding: 1rem;
+    border-radius: 1rem;
+    font-size: 15px;
+    text-align: center;
+    color: #FBFCFC ;
+    border: none;
+    font-weight: bold;
+}
+ .boton{
+    background-color: #3498DB;
+    padding: 1rem;
+    border-radius: 1rem;
+    font-size: 15px;
+    text-align: center;
+    color: #FBFCFC ;
+    border: none;
+    font-weight: bold;
+ }
+
+.carta{
+  width: 15rem;
+}
+
+.seccion{
+  margin-left: 3rem;
+  margin-bottom: 4rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
